@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Garbage Guru</string>
+
+    <string name="current_item">Current Item</string>
+    <string name="camera">Camera</string>
+    <string name="no_disposal_text">No detected disposal methods</string>
+
+    <string name="api_key">INSERT_API_KEY_HERE</string>
+
+</resources>
